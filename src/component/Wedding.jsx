@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import img1 from './asset/ad.png';
 import img2 from './asset/devider-logo.png';
-import adio from './asset/Remo.mp3';
+import adio from './asset/Theri.mp3';
 import ReactPlayer from 'react-player';
 
 function Wedding() {
