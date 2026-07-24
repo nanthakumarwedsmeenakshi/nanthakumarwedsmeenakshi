@@ -81,7 +81,7 @@ function Wedding() {
         <div className="cardSection">
           <div className="cardcontain">
             <p className='colorBrown textCenter'>&#10084; Wedding &#10084;</p> 
-            <a className='addCl' href="#">
+            <a className='addCl' >
            07-Sep-2026 09:00 - 10:30 am
             </a>
           </div>
